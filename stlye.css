@@ -14,7 +14,7 @@ body {
 }
 @media screen and (max-width: 600px) {
     .container{
-    font-size: medium;    
+    font-size: 400px;    
     display :flex;    
     flex-direction: column;
     }
