@@ -14,8 +14,9 @@ body {
 }
 @media screen and (max-width: 600px) {
     .container{
-    font-size: 70px;    
-    display :flex;    
+    font-size: 70px;       
+    display :flex; 
+    justify-content: center; 
     flex-direction: column;
     }
   }
