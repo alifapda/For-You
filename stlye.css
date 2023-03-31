@@ -8,7 +8,7 @@ body {
      display: flex;
      justify-content: center;
      align-items: center;
-     font-family:'balloo Thambi 2', cursive;
+     font-family :'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif cursive;
      font-weight: 700;
      font-size: 5rem;
 }
